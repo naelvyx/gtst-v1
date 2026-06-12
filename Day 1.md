@@ -28,4 +28,64 @@ Mark down; using different symbols to command like bold, heading...
 8, horizontal rule --- 
 9, link [title] (https://www.example.com)
 10, image ![alt text] (image.jpg) no space between the ]( or just paste ur image
-[[Day 2]]
+
+Hacking: finding vulnerability and gaining unauthorized access 
+Ethical Hacking: reporting the vulnerability 
+the one who found vulnerability
+
+3 types of hackers based on ethics
+1. black hat hacker: use it for bad purpose
+2. white hat hacker: use it for good purpose
+3. gray hat hacker : use it for his own benefit, combo of white and black
+
+3 types of hackers based on skill
+1. newbie/noob: no idea about hacking
+2. script kiddie: know a bit some and try to hack but no idea what's running behind, unskilled
+3. hacker: lack experience but know the concept
+elite/pro hacker: both skill and experience 
+
+how hack happens
+attack= motive + method  + vulnerability
+motive= to know info, revenge, ransom, money theft
+
+elements of information security
+confidentiality: should be secrete
+integrity: should not be manipulated by everyone
+availability: should be open only for authorized ppl 
+
+skills to be hacker
+programming
+networking
+Linux
+system admin
+
+phases of hacking
+reconnaissance: gather every info needed
+scanning: looking vulnerability
+gaining access: penetrating
+maintaining access: dominating the process
+clearing tracks or logs: clearing evidence
+
+penetration testing
+hacking a system for evaluation
+it's finding vulnerability, recommend upgrade in security
+report 
+
+types of pt
+black box: testing w/o any idea about the sys
+white box: the developer is the hacker and knows the sys
+gray box: knows the sys as a user 
+
+ethics of cs
+must be ethical and do ur job according to the agreement
+do it with permission only 
+respect the privacy of others
+think before u type
+with great power comes great responsibility 
+
+- think like black hat without limit
+
+
+
+
+
