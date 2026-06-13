@@ -31,7 +31,7 @@ Mark down; using different symbols to command like bold, heading...
 
 Hacking: finding vulnerability and gaining unauthorized access 
 Ethical Hacking: reporting the vulnerability 
-the one who found vulnerability
+the one who found vulnerability is called hacker
 
 3 types of hackers based on ethics
 1. black hat hacker: use it for bad purpose
@@ -41,8 +41,9 @@ the one who found vulnerability
 3 types of hackers based on skill
 1. newbie/noob: no idea about hacking
 2. script kiddie: know a bit some and try to hack but no idea what's running behind, unskilled
-3. hacker: lack experience but know the concept
+3. hacker: lack experience but know the concept and has the skill
 elite/pro hacker: both skill and experience 
+
 
 how hack happens
 attack= motive + method  + vulnerability
